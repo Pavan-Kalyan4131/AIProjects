@@ -8,4 +8,4 @@ Steps to run the Projects
   pip install -r requirements.txt
 4. Add the details in config file regarding LLM configuration
 5. Run the main file
-  python src\main.py
+   streamlit run main.py
