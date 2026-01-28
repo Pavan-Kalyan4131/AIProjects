@@ -8,4 +8,4 @@ Steps to run the Projects
   pip install -r requirements.txt
 4. Add the API key in the config file
 5. Run the main file
-  python src\main.py
+   streamlit run src\main.py
