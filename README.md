@@ -6,6 +6,6 @@ Steps to run the Projects
   dev\Scripts\activate
 3. Install the libraries
   pip install -r requirements.txt
-4. Add the API key in the config file
+4. Add the details in config file regarding LLM configuration
 5. Run the main file
   python src\main.py
